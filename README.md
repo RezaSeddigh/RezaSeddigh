@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">Full-Stack Developer with over 3 Years of professional experience
-  in web design and development using the latest versions</h3>
+<h4 align="center">Full-Stack Developer with over 3 Years of professional experience
+  in web design and development using the latest versions</h4>
 
 
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,github,js,git,docker," />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,git,github,docker," />
   </a>
 </p>
 
